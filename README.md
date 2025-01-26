@@ -21,3 +21,8 @@ git add README.md
 git commit -m "Added README"
 git push origin main
 
+## Live App
+
+You can try the deployed Streamlit app live here:
+
+[Dataset Quality Checker](https://dataset-quality-checker-gjb72vi9kgaj6ltukvdenw.streamlit.app/?embed_options=dark_theme)
