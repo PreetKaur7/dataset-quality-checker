@@ -1,6 +1,7 @@
 # Dataset Quality Checker 📝
 
-A **Streamlit-based tool** that checks dataset quality before data analysis. It identifies:
+A **Streamlit-based tool** that checks dataset quality before data analysis. 
+It identifies:
 ✔ Missing values  
 ✔ Duplicate rows  
 ✔ Incorrect data types  
