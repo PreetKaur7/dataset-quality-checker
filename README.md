@@ -14,7 +14,7 @@ pip install -r requirements.txt
 3. Run the app:
 streamlit run dqc.py
 
-## Example Screenshot
+
 ## Example Screenshot
 ![Dataset Quality Checker Screenshot](C:\Users\kishu\OneDrive\Pictures\Screenshots\dqcSS.png)
 git add README.md
