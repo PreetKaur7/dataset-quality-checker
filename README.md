@@ -15,8 +15,8 @@ pip install -r requirements.txt
 streamlit run dqc.py
 
 ## Example Screenshot
-![Dataset Quality Checker Screenshot](dcqSS.png)
-
+## Example Screenshot
+![Dataset Quality Checker Screenshot](C:\Users\kishu\OneDrive\Pictures\Screenshots\dqcSS.png)
 git add README.md
 git commit -m "Added README"
 git push origin main
